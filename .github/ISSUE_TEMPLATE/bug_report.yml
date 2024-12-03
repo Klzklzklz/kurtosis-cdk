@@ -1,4 +1,4 @@
-name: Bug Report
+vname: Bug Report
 description: Report broken functionality
 labels: ["bug"]
 body:
